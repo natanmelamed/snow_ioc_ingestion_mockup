@@ -1,0 +1,6 @@
+VALID_FILE_NAME: str = "valid_csv"
+INVALID_FILE_NAME: str = "invalid_csv_content"
+NO_REQRD_FIELDS_FILE_NAME: str = "no_reqrd_fields"
+VALID_FILE_RESULT: str = "IOC ingestion successfully executed:  {}"
+NO_FIELDS_REQRD_FILE_RESULT: str = "Error: IP/URL/Domain not present in the file"
+INVALID_FILE_RESULT: str = "Error: Invalid IP/URL/Domain in the file:<br> towncentrehotels.com/ps1.dat"
